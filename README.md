@@ -1,5 +1,5 @@
 
-# TP 3 - Routage, ARP, Spéléologie réseau :computer:
+# TP 3 - Routage, ARP, Spéléologie réseau 
 
 ## Préparation de l'environnement
 
